@@ -4,7 +4,9 @@
 - 👨🏽‍💻 Full Stack Web Developer
 - <img align="center" height=20 alt ="Nest.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> Current learning Nest.Js
 </div>
-###Main Stacks
+
+### Main Stacks
+<br>
 <div >
     <img align="center" height=40 alt ="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" height=40 alt ="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -21,7 +23,7 @@
     <img  align="center" height=40 alt ="Nest.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />          
 </div>
 
-###Find me!
+### Find me!
 
 <div >
 
