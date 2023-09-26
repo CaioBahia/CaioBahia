@@ -1,9 +1,10 @@
+<div>
 <h3 style="color: #109A61FF">Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h3>
 
 <h4 style="color: #109A61FF">
 I'm Caio Bahia, Full Stack Web Developer 👨🏽‍💻
 </h4>
-
+</div>
 <img height=240 src="https://ektelion.gr/wp-content/uploads/PixelArtGameRoom.gif">
 
 <h3 style="color: #109A61FF">🛠️ Technologies and Tools I use: </h3>
