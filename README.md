@@ -4,9 +4,9 @@
 I'm Caio Bahia, Full Stack Web Developer 👨🏽‍💻
 </h4>
 
-<img height=240 src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif">
+<img height=240 src="https://ektelion.gr/wp-content/uploads/PixelArtGameRoom.gif">
 
-<h4 style="color: #109A61FF">🛠️ Technologies and Tools I use: </h4>
+<h3 style="color: #109A61FF">🛠️ Technologies and Tools I use: </h3>
 
 <div >
     <img align="center" height=40 alt ="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -33,7 +33,7 @@ I'm Caio Bahia, Full Stack Web Developer 👨🏽‍💻
 - :zap: Fun fact: I love to cook :cook:
 
 
-<h4 style="color: #109A61FF">❤️ Let's get connected:</h4>
+<h3 style="color: #109A61FF">❤️ Let's get connected:</h3>
 
 <div >
 
