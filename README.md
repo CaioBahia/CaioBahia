@@ -25,7 +25,7 @@ I'm Caio Bahia, Full Stack Web Developer 👨🏽‍💻
     <img align="center" height=40 alt ="Figma"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
-<h4 style="color: #109A61FF">👨🏽‍💻 About Me:</h4>
+<h3 style="color: #109A61FF">👨🏽‍💻 About Me:</h4>
 
 - :computer: I'm a Fullstack Developer
 - :rocket: Ready to collaborate with Dev Comunity
