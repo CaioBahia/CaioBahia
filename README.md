@@ -5,7 +5,6 @@
 I'm Caio Bahia, Full Stack Web Developer 👨🏽‍💻
 </h3>
 </div>
-<img height=240 src="https://ektelion.gr/wp-content/uploads/PixelArtGameRoom.gif">
 
 <h3 style="color: #109A61FF">🛠️ Technologies and Tools I use: </h3>
 
