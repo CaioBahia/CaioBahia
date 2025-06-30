@@ -30,8 +30,7 @@ I'm Caio Bahia, Full Stack Web Developer 👨🏽‍💻
 - :computer: I'm a Fullstack Developer
 - :rocket: Ready to collaborate with Dev Comunity
 - :hourglass_flowing_sand: Exploring Back-end 
-- <img align="center" height=18 alt ="Nest.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"> Current learning Nest.Js
-- :zap: Fun fact: I love to cook :cook:
+-  <img  align="center" height=18 alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> Current learning Java 
 
 
 <h3 style="color: #109A61FF">❤️ Let's get connected:</h3>
