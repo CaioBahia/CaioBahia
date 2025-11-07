@@ -28,10 +28,10 @@ I'm Caio Bahia, Full Stack Developer transitioning to AI Engineering 👨🏽‍
 <h3 style="color: #109A61FF">👨🏽‍💻 About Me:</h4>
 
 - :computer: Full Stack Developer
-- :gear: Experienced in robust Software Engineering foundations, currently focused on intense learning and practical projects in **LLMs (Large Language Models)** and **MLOps**.
+- :gear: Currently focused on intense learning and practical projects in **LLMs** and **MLOps**.
 - :rocket: Leveraging my command of **Python** and Full Stack knowledge to build and integrate the next generation of intelligent solutions.
 - :bulb: Ready to collaborate proactively and drive AI models from experimentation to production.
-
+  
 <h3 style="color: #109A61FF">❤️ Let's get connected:</h3>
 
 <div >
