@@ -8,28 +8,19 @@ I'm Caio Bahia, Full Stack Developer transitioning to AI Engineering 👨🏽‍
 
 <h3 style="color: #109A61FF">🛠️ Technologies and Tools I use: </h3>
 
-<h4 style="color: #109A61FF">Languages & Core Backend:</h4>
 <div >
-    <img align="center" height=40 alt ="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" height=40 alt ="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" height=40 alt ="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align="center" height=40 alt ="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img  align="center" height=40 alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img align="center" height=40 alt ="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" height=40 alt ="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img align="center" height=40 alt ="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
     <img align="center" height=40 alt ="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img  align="center" height=40 alt ="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img  align="center" height=40  alt="Nest.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-</div>
-
-<h4 style="color: #109A61FF">Frontend Frameworks:</h4>
-<div >
-    <img align="center" height=40 alt ="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" height=40 alt ="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
-</div>
-
-<h4 style="color: #109A61FF">Data, DevOps & MLOps:</h4>
-<div >
-    <img align="center" height=40 alt ="MLflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" />
     <img align="center" height=40 alt ="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img align="center" height=40 alt ="MLflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" />
     <img align="center" height=40 alt ="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align="center" height=40 alt ="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <img  align="center" height=40 alt ="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
