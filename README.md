@@ -7,7 +7,7 @@ I'm Caio Bahia, Full Stack Developer transitioning to AI Engineering 👨🏽‍
 </div>
 
 <h3 style="color: #109A61FF">🛠️ Technologies and Tools I use: </h3>
-
+<br/>
 <div>
     <img align="center" height=40 alt ="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" height=40 alt ="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -24,7 +24,7 @@ I'm Caio Bahia, Full Stack Developer transitioning to AI Engineering 👨🏽‍
     <img align="center" height=40 alt ="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" height=40 alt ="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
-
+<br/>
 <h3 style="color: #109A61FF">👨🏽‍💻 About Me:</h4>
 
 - :computer: Full Stack Developer
