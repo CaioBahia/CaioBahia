@@ -19,10 +19,7 @@ I'm Caio Bahia, Full Stack Developer transitioning to AI Engineering 👨🏽‍
     <img align="center" height=40 alt ="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img  align="center" height=40 alt ="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img  align="center" height=40  alt="Nest.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img align="center" height=40 alt ="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-    <img align="center" height=40 alt ="MLflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" />
     <img align="center" height=40 alt ="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" height=40 alt ="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <img  align="center" height=40 alt ="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img align="center" height=40 alt ="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" height=40 alt ="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
