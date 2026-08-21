@@ -80,16 +80,6 @@ to the people affected by them.
 **Workflow:** Git, Azure DevOps, CI/CD, Scrum, Postman and Docker  
 **Practices:** Object-oriented programming, Clean Code and SOLID
 
-## Featured project
-
-### [EduBase](https://github.com/CaioBahiaTechne/EduBase)
-
-Academic management system created as a technical challenge.
-
-The project demonstrates the development of an end-to-end solution using
-Java, Spring Boot, Angular and relational databases, covering both backend
-business rules and frontend user journeys.
-
 **Highlights:**
 
 - Full stack application with backend and frontend integration
